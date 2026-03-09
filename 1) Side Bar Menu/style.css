@@ -5,6 +5,16 @@
 }
 
 .main_box{
-    background: url("BG.jpeg");
-    
+    background: url("bg\ 2.jpeg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.btn_one{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    position: absolute;
+    left: 16px;
+    line-height: 16;
 }
